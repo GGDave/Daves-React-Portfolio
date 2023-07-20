@@ -1,21 +1,29 @@
 import React from 'react';
 import '../../css/Home.css';
+import myImage from '../../images/Dave.png';
+// import backgroundImage from '../../images/beach2.jpg';
 export default function Home() {
   return (
-    <div className='home-container'>
-      <h1>Home Page</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
-      </p>
+    <div className=" d-flex align-items-center flex-column vh-600 home-container ">
+      <img src={myImage} alt="Me" className="my-4 profile-image"/>
+      <h1 className="text-center">Hello, I'm Dave</h1>
+      <p className="text-center">I'm a software developer based in Phoenix AZ. Welcome to my portfolio!</p>
     </div>
   );
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
