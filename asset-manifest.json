@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GGDave/Daves-React-Portfolio/static/css/main.972b1cbb.css",
-    "main.js": "/GGDave/Daves-React-Portfolio/static/js/main.bd0151e2.js",
-    "static/media/Dave.png": "/GGDave/Daves-React-Portfolio/static/media/Dave.05cd805aacc25a509037.png",
-    "static/media/kodingKitchen.png": "/GGDave/Daves-React-Portfolio/static/media/kodingKitchen.f8906c27e1a19f94615c.png",
-    "static/media/beach3.jpg": "/GGDave/Daves-React-Portfolio/static/media/beach3.9455384cad1f86574c80.jpg",
-    "static/media/WAW.png": "/GGDave/Daves-React-Portfolio/static/media/WAW.0b06bd455fb442bbbdd0.png",
-    "static/media/beach1.jpg": "/GGDave/Daves-React-Portfolio/static/media/beach1.a9c6140bdf4a4557de0b.jpg",
-    "static/media/Dash.png": "/GGDave/Daves-React-Portfolio/static/media/Dash.651a9188258a49df829e.png",
-    "static/media/workdayScheduler.png": "/GGDave/Daves-React-Portfolio/static/media/workdayScheduler.4701cfb3164f0c60a8f9.png",
-    "static/media/techblog.png": "/GGDave/Daves-React-Portfolio/static/media/techblog.df944402b04864718785.png",
-    "static/media/txteditor.png": "/GGDave/Daves-React-Portfolio/static/media/txteditor.c1fb3c1ad4d9ae94cd78.png",
-    "index.html": "/GGDave/Daves-React-Portfolio/index.html",
-    "main.972b1cbb.css.map": "/GGDave/Daves-React-Portfolio/static/css/main.972b1cbb.css.map",
-    "main.bd0151e2.js.map": "/GGDave/Daves-React-Portfolio/static/js/main.bd0151e2.js.map"
+    "main.css": "/Daves-React-Portfolio/static/css/main.c3503e03.css",
+    "main.js": "/Daves-React-Portfolio/static/js/main.98a308b7.js",
+    "static/media/Dave.png": "/Daves-React-Portfolio/static/media/Dave.05cd805aacc25a509037.png",
+    "static/media/kodingKitchen.png": "/Daves-React-Portfolio/static/media/kodingKitchen.f8906c27e1a19f94615c.png",
+    "static/media/beach3.jpg": "/Daves-React-Portfolio/static/media/beach3.9455384cad1f86574c80.jpg",
+    "static/media/WAW.png": "/Daves-React-Portfolio/static/media/WAW.0b06bd455fb442bbbdd0.png",
+    "static/media/beach1.jpg": "/Daves-React-Portfolio/static/media/beach1.a9c6140bdf4a4557de0b.jpg",
+    "static/media/Dash.png": "/Daves-React-Portfolio/static/media/Dash.651a9188258a49df829e.png",
+    "static/media/workdayScheduler.png": "/Daves-React-Portfolio/static/media/workdayScheduler.4701cfb3164f0c60a8f9.png",
+    "static/media/techblog.png": "/Daves-React-Portfolio/static/media/techblog.df944402b04864718785.png",
+    "static/media/txteditor.png": "/Daves-React-Portfolio/static/media/txteditor.c1fb3c1ad4d9ae94cd78.png",
+    "index.html": "/Daves-React-Portfolio/index.html",
+    "main.c3503e03.css.map": "/Daves-React-Portfolio/static/css/main.c3503e03.css.map",
+    "main.98a308b7.js.map": "/Daves-React-Portfolio/static/js/main.98a308b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.972b1cbb.css",
-    "static/js/main.bd0151e2.js"
+    "static/css/main.c3503e03.css",
+    "static/js/main.98a308b7.js"
   ]
 }
