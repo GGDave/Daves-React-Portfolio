@@ -1,0 +1,58 @@
+.about-container {
+  background-image: url('../images/beach3.jpg');
+  
+  /* Set the background image to cover the entire container */
+  background-size: cover;
+  
+  /* Position the background image in the center */
+  background-position: center;
+
+  /* Set the background image not to repeat */
+  background-repeat: no-repeat;
+  margin-top: 0;
+  padding-top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 2em;
+  color: #333;
+  padding: 10px;
+  height: 100vh;
+}
+
+.about-image {
+  width: 200px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-right: 2em;
+}
+
+.about-content {
+  max-width: 500px;
+  padding-top: 0px;
+  margin-top: 0px;
+  color: rgb(28, 26, 26);
+  text-background-color: #4480f8;
+  text-shadow: 4px 4px 8px rgb(255, 254, 254);
+}
+
+.about-content h1 {
+  font-size: 2em;
+  margin-bottom: 1em;
+  justify-content: center;
+}
+
+.about-content p {
+  line-height: 1.6;
+}
+
+.about-content a {
+  color: #4480f8;
+  text-decoration: none;
+}
+
+.about-content a:hover {
+  text-decoration: underline;
+}

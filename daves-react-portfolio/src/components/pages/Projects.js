@@ -5,6 +5,8 @@ import image3 from '../../images/txteditor.png';
 import image4 from '../../images/techblog.png';
 import image5 from '../../images/WAW.png';
 import image6 from '../../images/Dash.png';
+import Footer from '../Footer'
+
 export default function Projects() {
   return (
     <div className="container">
@@ -76,6 +78,7 @@ export default function Projects() {
           </div>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }

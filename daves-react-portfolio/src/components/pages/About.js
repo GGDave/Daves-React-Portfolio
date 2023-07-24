@@ -1,17 +1,30 @@
 import React from 'react';
+import '../../css/About.css';
+import Image from '../../images/Dave.png';
+import Footer from '../Footer'
 
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
+    <div className="about-container">
+      <img src={Image} alt="Your name" className="about-image" />
+      <div className="about-content">
+        <h1>About Me</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent faucibus aliquet arcu, id maximus lacus varius sed. Morbi tempor lacinia odio, a mollis augue ultricies non. Duis rhoncus magna nec turpis viverra lacinia.</p>
+        <p>You can find me on:
+          <ul>
+            <li><a href="https://github.com/yourusername">GitHub</a></li>
+            <li><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
+            <li><a href="mailto:youremail@gmail.com">Email</a></li>
+          </ul>
+        </p>
+      </div>
+      <Footer />
     </div>
   );
-}
+};
+
+
+
+
+
+

@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../Footer';
 
 export default function Blog() {
   return (
@@ -19,6 +20,8 @@ export default function Blog() {
         bibendum congue. Pellentesque semper, lectus non ullamcorper iaculis,
         est ligula suscipit velit, sed bibendum turpis dui in sapien.
       </p>
+      <Footer />
     </div>
+    
   );
 }
