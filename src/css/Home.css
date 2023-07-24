@@ -1,9 +1,6 @@
 .home-container {
   background-color: #4480f8;
-  /* Change the background color */
   color: white;
-  /* Change the text color */
-  text-background-color: #4480f8;
   text-shadow: 4px 4px 8px rgba(0, 0, 0, 1);
   padding: 0px;
   background: url('../images/beach1.jpg') no-repeat center center fixed; 

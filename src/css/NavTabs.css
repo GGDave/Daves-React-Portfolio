@@ -1,25 +1,20 @@
 .nav {
     background-color: #1b2b4a;
-    /* Dark blue background */
 }
 
 .nav-link {
     color: #61dafb !important;
-    /* Light blue text */
     font-size: 1.5rem;
-    /* Increase the font size */
+    
 }
 
 .nav-link.active {
     color: #ffffff;
-    /* White text */
     background-color: #61dafb;
-    /* Light blue background */
+    
 }
 
 .nav-link:hover {
     color: #ffffff;
-    /* White text on hover */
     background-color: #282c34;
-    /* Dark blue background on hover */
 }
