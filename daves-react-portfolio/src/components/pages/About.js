@@ -12,7 +12,7 @@ export default function About() {
         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent faucibus aliquet arcu, id maximus lacus varius sed. Morbi tempor lacinia odio, a mollis augue ultricies non. Duis rhoncus magna nec turpis viverra lacinia.</p>
         <p>You can find me on:
           <ul>
-            <li><a href="https://github.com/yourusername">GitHub</a></li>
+            <li><a href="https://github.com/GGDave">GitHub</a></li>
             <li><a href="https://linkedin.com/in/yourusername">LinkedIn</a></li>
             <li><a href="mailto:youremail@gmail.com">Email</a></li>
           </ul>

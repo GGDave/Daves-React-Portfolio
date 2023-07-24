@@ -5,11 +5,12 @@ import image3 from '../../images/txteditor.png';
 import image4 from '../../images/techblog.png';
 import image5 from '../../images/WAW.png';
 import image6 from '../../images/Dash.png';
-import Footer from '../Footer'
+import Footer from '../Footer';
+import '../../css/Projects.css'
 
 export default function Projects() {
   return (
-    <div className="container">
+    <div className="container projects-container">
       <div className="row">
         <div className="col-lg-4 col-md-6 mb-4">
           <div className="card h-100">

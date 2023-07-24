@@ -1,13 +1,7 @@
 .about-container {
   background-image: url('../images/beach3.jpg');
-  
-  /* Set the background image to cover the entire container */
   background-size: cover;
-  
-  /* Position the background image in the center */
   background-position: center;
-
-  /* Set the background image not to repeat */
   background-repeat: no-repeat;
   margin-top: 0;
   padding-top: 0;
@@ -34,7 +28,7 @@
   padding-top: 0px;
   margin-top: 0px;
   color: rgb(28, 26, 26);
-  text-background-color: #4480f8;
+  text-background-color: #080f1b;
   text-shadow: 4px 4px 8px rgb(255, 254, 254);
 }
 
@@ -49,7 +43,7 @@
 }
 
 .about-content a {
-  color: #4480f8;
+  color: #083389;
   text-decoration: none;
 }
 
